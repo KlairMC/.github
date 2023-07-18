@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/GJe9YS5.png" alt="Klair128x128" width="224" height="224" style="margin-bottom: 25px;" />
+<img src="https://i.imgur.com/1CJwvea.png" alt="Klair128x128" width="224" height="224" style="margin-bottom: 25px;" />
 
 # Klair Client
 
