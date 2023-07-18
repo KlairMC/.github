@@ -16,7 +16,7 @@ Knock'in on your door since 2023™️
 
 ### Easy to use
 
-Designed to be easy for less advanced players! These shouldn't be hard, so we try and ease the things needed.
+Designed to be easy for less advanced players! These shouldn't be hard, so we try and ease the things to make your experience up to your imagination.
 
 ### Free and open source
 
